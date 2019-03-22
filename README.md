@@ -2,11 +2,17 @@
 Find the celebrity problem solved in a Spring Boot project with H2 input data.
 
 Example data matrix (input):
-				{ 0, 0, 1, 0 }, 
-        { 0, 0, 1, 0 }, 
-        { 0, 0, 0, 0 },  
-        { 0, 0, 1, 0 } 
+				
+{ 0, 0, 1, 0 }, 
+	
+{ 0, 0, 1, 0 }, 
+	
+{ 0, 0, 0, 0 }, 
+	
+{ 0, 0, 1, 0 } 
+	
 Solution (output) : id=2
+
 
 Prerequisites: Java 8 installed.
 
